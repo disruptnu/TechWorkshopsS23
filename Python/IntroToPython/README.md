@@ -1,4 +1,4 @@
-# Intro to Python: Financial Data Analysis
+# Intro to Python
 
 ## Setup
 
