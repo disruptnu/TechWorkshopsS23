@@ -21,3 +21,15 @@
     * OOP in Python
     * Flask and MySQL
       * Advanced Python features like custom context managers
+      
+Notes from Meeting with Dr. Fontenot      
+
+
+Intermediate: pandas & dictionaries. give them the api code
+Advanced: 
+
+SQL in jupyter
+
+
+Future semesters: github workshop early on
+
