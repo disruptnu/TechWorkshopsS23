@@ -1,1 +1,1 @@
-# [Colab Link](https://linkgoeshere.com)
+# [Colab Link](https://bit.ly/disrupt-advanced-python)
